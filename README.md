@@ -2,7 +2,7 @@
 
 </br>
 <div align="center">
-    <img src="images/otebook.jpg" alt="note">
+    <img src="images/notebook.jpg" alt="note">
 </div>
 
 ## Introdução
