@@ -20,7 +20,7 @@ Em última análise, uma combinação desses fatores determina o preço final de
 
 Para a previsão do preço dos notebooks utilizamos três modelos de Regressão Linear, incluindo Ridge e Lasso, e três de Regressão não Linear, tais como Random Forest, Gradiente e XG Boosting.
 
-Neste projeto, as seguintes etapas estão sendo realizadas para regressão e previsão:
+Neste projeto, as seguintes etapas são realizadas para regressão e previsão:
 
 <ul>
   <li>Análise Exploratória de Dados</li>
@@ -29,3 +29,7 @@ Neste projeto, as seguintes etapas estão sendo realizadas para regressão e pre
   <li>Feature Selection</li>
   <li>Nova regressão</li>
 </ul>
+
+## Análise Exploratória de Dados (EDA)
+
+Utilizamos o conjunto de dados chamado _Laptop Price Prediction using specifications_ do _[Kaggle](https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset/data)_. Consiste em observações de 299 pacientes para 13 atributos diferentes. Os diversos atributos incluem:
