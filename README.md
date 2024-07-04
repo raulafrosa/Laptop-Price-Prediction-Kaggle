@@ -32,4 +32,18 @@ Neste projeto, as seguintes etapas são realizadas para regressão e previsão:
 
 ## Análise Exploratória de Dados (EDA)
 
-Utilizamos o conjunto de dados chamado _Laptop Price Prediction using specifications_ do _[Kaggle](https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset/data)_. Consiste em observações de 299 pacientes para 13 atributos diferentes. Os diversos atributos incluem:
+Utilizamos o conjunto de dados chamado _Laptop Price Prediction using specifications_ do _[Kaggle](https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset)_. Consiste em 1302 notebooks com 13 atributos. Os diversos atributos incluem:
+
+1)	**Manufacturer**
+2)	**Model Name**
+3)	**Category**
+4)	**Screen Size**
+5)	**Screen**
+6)	**CPU**
+7)	**RAM**
+8)	**Storage**
+9)	**GPU**
+10)	**Operating System**
+11)	**Operating System Version**
+12)	**Weight**
+13)	**Price**
