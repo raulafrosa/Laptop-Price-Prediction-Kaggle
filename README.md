@@ -34,16 +34,16 @@ Neste projeto, as seguintes etapas são realizadas para regressão e previsão:
 
 Utilizamos o conjunto de dados chamado _Laptop Price Prediction using specifications_ do _[Kaggle](https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset)_. Consiste em 1302 notebooks com 13 atributos. Os diversos atributos incluem:
 
-1)	**Manufacturer**
-2)	**Model Name**
-3)	**Category**
-4)	**Screen Size**
-5)	**Screen**
-6)	**CPU**
-7)	**RAM**
-8)	**Storage**
-9)	**GPU**
-10)	**Operating System**
-11)	**Operating System Version**
-12)	**Weight**
-13)	**Price**
+1)	**Manufacturer**: A empresa fabricante. \
+2)	**Model Name**: O nome do modelo. \
+3)	**Category**: Dividida em 6 define a categoria do notenook. \
+4)	**Screen Size**: Tamanho em polegadas da tela. \
+5)	**Screen**: Resolução em pixels da tela. \
+6)	**CPU**: Modelo do processador. \
+7)	**RAM**: capacidade em GB da memória RAM. \
+8)	**Storage**: Modelo e tamanho da unidade de armazenagem. \
+9)	**GPU**: Modelo da placa de vídeo. \
+10)	**Operating System**: Nome de sistema operacional. \
+11)	**Operating System Version**: Versão do sistema operacional. \
+12)	**Weight**: Peso do notebook em Kg. \
+13)	**Price**: Preço do notebook.
