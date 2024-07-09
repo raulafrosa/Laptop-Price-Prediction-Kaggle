@@ -52,8 +52,6 @@ A atributo _Price_ é o único número, todos os outros são categóricos. Para 
 
 A correlação dos atributos com _Price_ mostra quais estão mais relacionados com o alvo
 
-<div align="center">
-
 RAM                            0.680511
 ssd                            0.656844
 CPU                            0.641928
@@ -79,5 +77,3 @@ Operating System_Linux        -0.177671
 Operating System_Chrome OS    -0.180921
 Operating System_No OS        -0.215422
 Category_Notebook             -0.565783
-
-</div>
