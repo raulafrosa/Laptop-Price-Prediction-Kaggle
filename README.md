@@ -50,30 +50,8 @@ Utilizamos o conjunto de dados chamado _Laptop Price Prediction using specificat
 
 A atributo _Price_ é o único número, todos os outros são categóricos. Para utilizar esses dados eles foram manipulados para assumir valores numéricos. Após essa manipulação o número de atributos aumentou para 26.
 
-A correlação dos atributos com _Price_ mostra quais estão mais relacionados com o alvo
+O _heatmap_ dos entre os atributos indica os que são mais correlacioados com _Price_
 
-RAM                            0.680511
-ssd                            0.656844
-CPU                            0.641928
-Pixels                         0.527864
-Category_Gaming                0.363366
-GPU                            0.361630
-Category_Ultrabook             0.307240
-Operating System_Windows       0.294067
-Ips                            0.279304
-Category_Workstation           0.206992
-Touchscreen                    0.191583
-Weight                         0.151697
-Manufacturer                   0.139306
-Operating System_Mac OS        0.093617
-Category_2 in 1 Convertible    0.090014
-Screen Size                    0.038563
-hybrid                         0.022731
-flash                         -0.050915
-Operating System_Android      -0.052136
-hdd                           -0.099978
-Category_Netbook              -0.146426
-Operating System_Linux        -0.177671
-Operating System_Chrome OS    -0.180921
-Operating System_No OS        -0.215422
-Category_Notebook             -0.565783
+<div align="center">
+    <img src="images/heatmap.jpg" alt="heat">
+</div>
